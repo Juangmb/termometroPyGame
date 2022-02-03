@@ -1,0 +1,1 @@
+Termometro que pasa temperatura entre Celsius y Fahrenheit
